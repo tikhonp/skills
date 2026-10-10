@@ -1,0 +1,14 @@
+{
+  "name": "tikhon-skills",
+  "description": "Tikhon's personal Claude Code skills",
+  "owner": {
+    "name": "Tikhon"
+  },
+  "plugins": [
+    {
+      "name": "tikhon",
+      "source": "./",
+      "description": "All my skills in one plugin"
+    }
+  ]
+}
